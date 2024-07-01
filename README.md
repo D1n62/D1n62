@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @MB-D1ng5
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python und C++
-- 💞️ I’m looking to collaborate on meinem eigenen Zeugs
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Dings
+# Dings
+- Moin, Ich bin Maximilian, 20 Jahre alt und ich habe ein paar Jahre Erfahrung in der Python Entwicklung. Ich konnte bereits einige Programme entwickeln und auf den Markt bringen. Ich bin auch im Webseitenbau beschäftigt, allerdings macht mir der Designtechnische Aspekt nicht wirklich spaß.
 
-<!---
-MB-D1ng5/MB-D1ng5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Erfahrungen
+- ich habe Erfahrung in folgenden Sprachen:
+    - Python (mit abstand das meiste können)
+    - HTML, CSS, (JS für den Webseitenbau)
+    - C#
+    - C++
+    - Batch
+    - Objekt Pascal (Delpi IDE, Lazarus)
+ 
+Betriebssystem-technisch versuche ich in meinem Programmen immer Windows und MacOS abzudecken, da ich selbst auf MacOS meine Software Entwickle.
+- Falls ich irgendwann mal die Zeit finde kann man unter https:dings.software mehr über meine Projekte und Tools erfahren.
