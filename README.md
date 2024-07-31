@@ -1,5 +1,5 @@
 # Dings
-- Moin, Ich bin Maximilian, 20 Jahre alt und ich habe ein paar Jahre Erfahrung in der Python Entwicklung. Ich konnte bereits einige Programme entwickeln und auf den Markt bringen. Ich bin auch im Webseitenbau beschäftigt, allerdings macht mir der Designtechnische Aspekt nicht wirklich spaß.
+- Moin, Ich bin Maximilian, 20 Jahre alt und arbeite teilweise als Developer ich habe ein paar Jahre Erfahrung in der Python Entwicklung. Ich konnte bereits einige Programme entwickeln und auf den Markt bringen. Ich bin auch im Webseitenbau beschäftigt, allerdings macht mir der Designtechnische Aspekt nicht wirklich spaß.
 
 ### Erfahrungen
 - ich habe Erfahrung in folgenden Sprachen:
