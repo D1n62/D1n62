@@ -9,7 +9,7 @@
     - C/C++
     - Batch
     - Objekt Pascal (Delpi IDE, Lazarus)
-    - Godot
+    - Godot / GdScript
  
-Betriebssystem-technisch versuche ich in meinem Programmen immer Windows und MacOS abzudecken, da ich selbst auf MacOS meine Software Entwickle.
+Betriebssystem-technisch versuche ich in meinen Programmen immer Windows und MacOS abzudecken, da ich selbst auf MacOS meine Software Entwickle.
 - Falls ich irgendwann mal die Zeit finde kann man unter https:dings.software mehr über meine Projekte und Tools erfahren.
