@@ -1,13 +1,13 @@
 # Dings
-#            _ .-') _             .-') _                  
-#           ( (  OO) )           ( OO ) )                 
-#           \     .'_  .---.,--./ ,--,'   ,--.   .-----.  
-#           ,`'--..._)/_   ||   \ |  |\  /  .'  / ,-.   \ 
-#           |  |  \  ' |   ||    \|  | ).  / -. '-'  |  | 
-#           |  |   ' | |   ||  .     |/ | .-.  '   .'  /  
-#           |  |   / : |   ||  |\    |  ' \  |  |.'  /__  
-#           |  '--'  / |   ||  | \   |  \  `'  /|       | 
-#           `-------'  `---'`--'  `--'   `----' `-------' 
+            _ .-') _             .-') _                  
+           ( (  OO) )           ( OO ) )                 
+           \     .'_  .---.,--./ ,--,'   ,--.   .-----.  
+           ,`'--..._)/_   ||   \ |  |\  /  .'  / ,-.   \ 
+           |  |  \  ' |   ||    \|  | ).  / -. '-'  |  | 
+           |  |   ' | |   ||  .     |/ | .-.  '   .'  /  
+           |  |   / : |   ||  |\    |  ' \  |  |.'  /__  
+           |  '--'  / |   ||  | \   |  \  `'  /|       | 
+           `-------'  `---'`--'  `--'   `----' `-------' 
 
 
 - Moin, Ich bin Maximilian, 20 Jahre alt und arbeite teilweise als Fullstack Developer. Ich habe ein paar Jahre Erfahrung in der Python Entwicklung. Ich konnte bereits einige Programme entwickeln und auf den Markt bringen. Ich bin auch im Webseitenbau beschäftigt und habe bereits ein paar Seiten veröffentlicht
