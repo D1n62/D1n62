@@ -14,8 +14,8 @@
 
 ### Erfahrungen
 - ich habe Erfahrung in folgenden Sprachen:
-    - Python (mit abstand das meiste können)
-    - HTML, CSS, (JS für den Webseitenbau)
+    - Python
+    - HTML, CSS, JS
     - C#
     - C/C++
     - Batch
@@ -24,4 +24,4 @@
     - x86 Assembly
  
 Betriebssystem-technisch versuche ich in meinen Programmen immer Windows und MacOS abzudecken, da ich selbst auf MacOS meine Software Entwickle.
-- Falls ich irgendwann mal die Zeit finde kann man unter https:dings.software mehr über meine Projekte und Tools erfahren.
+- Falls ich irgendwann mal die Zeit finde kann man unter https://dings.software mehr über meine Projekte und Tools erfahren.
